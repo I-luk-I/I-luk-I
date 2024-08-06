@@ -12,4 +12,5 @@ I am a graphic designer and developer. I also love math 🙂
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg"  alt="MySQL" width="40" height="40"/>&nbsp;
   
